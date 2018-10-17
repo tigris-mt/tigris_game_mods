@@ -49,6 +49,3 @@
 [submodule "castle_tapestries"]
 	path = castle_tapestries
 	url = https://github.com/minetest-mods/castle_tapestries
-[submodule "unifieddyes"]
-	path = unifieddyes
-	url = https://github.com/minetest-mods/unifieddyes
