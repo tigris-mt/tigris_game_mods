@@ -4,3 +4,15 @@
 [submodule "simple_sunburn"]
 	path = simple_sunburn
 	url = https://github.com/tigris-mt/simple_sunburn
+[submodule "smartfs"]
+	path = smartfs
+	url = https://github.com/minetest-mods/smartfs
+[submodule "minetest_playereffects"]
+	path = minetest_playereffects
+	url = https://repo.or.cz/minetest_playereffects.git
+[submodule "player_monoids"]
+	path = player_monoids
+	url = https://github.com/minetest-mods/player_monoids
+[submodule "armor_monoid"]
+	path = armor_monoid
+	url = https://github.com/minetest-mods/armor_monoid
