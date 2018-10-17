@@ -16,3 +16,6 @@
 [submodule "armor_monoid"]
 	path = armor_monoid
 	url = https://github.com/minetest-mods/armor_monoid
+[submodule "minetest-3d_armor"]
+	path = minetest-3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor.git
