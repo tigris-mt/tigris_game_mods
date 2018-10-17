@@ -1,0 +1,6 @@
+[submodule "tigris"]
+	path = tigris
+	url = https://github.com/tigris-mt/tigris
+[submodule "simple_sunburn"]
+	path = simple_sunburn
+	url = https://github.com/tigris-mt/simple_sunburn
