@@ -19,3 +19,21 @@
 [submodule "minetest-3d_armor"]
 	path = minetest-3d_armor
 	url = https://github.com/stujones11/minetest-3d_armor.git
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "castle_masonry"]
+	path = castle_masonry
+	url = https://github.com/minetest-mods/castle_masonry
+[submodule "castle_lighting"]
+	path = castle_lighting
+	url = https://github.com/minetest-mods/castle_lighting.git
+[submodule "castle_farming"]
+	path = castle_farming
+	url = https://github.com/minetest-mods/castle_farming
+[submodule "minetest_doc_modpack"]
+	path = minetest_doc_modpack
+	url = https://repo.or.cz/minetest_doc_modpack.git
+[submodule "minetest_doc_minetest_game"]
+	path = minetest_doc_minetest_game
+	url = https://repo.or.cz/minetest_doc_minetest_game.git
