@@ -37,3 +37,18 @@
 [submodule "minetest_doc_minetest_game"]
 	path = minetest_doc_minetest_game
 	url = https://repo.or.cz/minetest_doc_minetest_game.git
+[submodule "castle_gates"]
+	path = castle_gates
+	url = https://github.com/minetest-mods/castle_gates
+[submodule "castle_shields"]
+	path = castle_shields
+	url = https://github.com/minetest-mods/castle_shields
+[submodule "castle_storage"]
+	path = castle_storage
+	url = https://github.com/minetest-mods/castle_storage
+[submodule "castle_tapestries"]
+	path = castle_tapestries
+	url = https://github.com/minetest-mods/castle_tapestries
+[submodule "unifieddyes"]
+	path = unifieddyes
+	url = https://github.com/minetest-mods/unifieddyes
