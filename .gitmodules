@@ -49,3 +49,6 @@
 [submodule "caverealms_lite"]
 	path = caverealms_lite
 	url = https://github.com/Ezhh/caverealms_lite
+[submodule "under_sky"]
+	path = under_sky
+	url = https://github.com/Ezhh/under_sky.git
