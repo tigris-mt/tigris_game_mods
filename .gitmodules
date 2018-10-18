@@ -61,3 +61,6 @@
 [submodule "minetest_sfinv_buttons"]
 	path = minetest_sfinv_buttons
 	url = https://repo.or.cz/minetest_sfinv_buttons.git
+[submodule "simple_quests"]
+	path = simple_quests
+	url = https://github.com/tigris-mt/simple_quests
