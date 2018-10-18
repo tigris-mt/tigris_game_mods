@@ -52,3 +52,6 @@
 [submodule "under_sky"]
 	path = under_sky
 	url = https://github.com/Ezhh/under_sky.git
+[submodule "underground_start"]
+	path = underground_start
+	url = https://github.com/tigris-mt/underground_start
