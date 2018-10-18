@@ -55,3 +55,9 @@
 [submodule "underground_start"]
 	path = underground_start
 	url = https://github.com/tigris-mt/underground_start
+[submodule "craftguide"]
+	path = craftguide
+	url = https://github.com/minetest-mods/craftguide
+[submodule "minetest_sfinv_buttons"]
+	path = minetest_sfinv_buttons
+	url = https://repo.or.cz/minetest_sfinv_buttons.git
