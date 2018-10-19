@@ -64,3 +64,6 @@
 [submodule "simple_quests"]
 	path = simple_quests
 	url = https://github.com/tigris-mt/simple_quests
+[submodule "tigris_story"]
+	path = tigris_story
+	url = https://github.com/tigris-mt/tigris_story
