@@ -67,3 +67,6 @@
 [submodule "tigris_story"]
 	path = tigris_story
 	url = https://github.com/tigris-mt/tigris_story
+[submodule "weird_biomes"]
+	path = weird_biomes
+	url = https://github.com/tigris-mt/weird_biomes
